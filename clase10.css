@@ -4,12 +4,12 @@ body {
   height: 100vh;
   margin: 0;
   background-color: pink;
-}
-
-h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+h1 {
   font-family: 'Josefin Sans';
   font-size: 40px;
 }
